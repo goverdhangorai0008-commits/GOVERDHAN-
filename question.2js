@@ -1,0 +1,6 @@
+const arr = [16, 12, 13, 24, 17, 2];
+let sum = 0;
+for (let i = 0; i < data.length; i++) {
+  sum = sum + data[i];
+}
+console.log("sum of thr array", sum);
